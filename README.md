@@ -3,9 +3,9 @@
 Android Developer | Ex - Pepul
 
 <img  align="right" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
-- 🔭 Here's our [apps](https://play.google.com/store/apps/dev?id=5708018631480693209)
-- 🌱 I’m currently learning Jetpack compose and DSA
--💬 Ask me about Tech
+- 🔭 Here's our [apps](https://play.google.com/store/apps/dev?id=5708018631480693209) <br/>
+- 🌱 I’m currently learning Jetpack compose and DSA <br/>
+- 💬 Ask me about Tech
 
 ## 🌐 Socials:
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/mohanasundharam-b-jp) 
