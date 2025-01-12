@@ -5,7 +5,7 @@
 <img  align="right" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 - 🔭 Here's our [apps](https://play.google.com/store/apps/dev?id=5708018631480693209)
-- 🌱 I’m currently learning Jetpack compose and DSA
+- 🌱 Kotlin | KMP
 - 💬 Ask me about Tech
 
 ## 🌐 Socials:
