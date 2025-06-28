@@ -1,11 +1,11 @@
 # 💫 About Me:
 
-#### Android Developer | Ex - Pepul
+#### Software Engineer | Java | Kotlin | Android | Springboot  | Ex - Pepul
 
 <img  align="right" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 - 🔭 Here's our [apps](https://play.google.com/store/apps/dev?id=5708018631480693209)
-- 🌱 Kotlin | KMP
+- 🌱 Kotlin | KMP | Springboot
 - 💬 Ask me about Tech
 
 ## 🌐 Socials:
