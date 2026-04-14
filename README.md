@@ -1,36 +1,55 @@
-# 💫 About Me:
+# 👋 Hi, I'm Mohanasundharam B
 
-#### Software Engineer | Java | Kotlin | Android | Springboot  | Ex - Pepul
-
-<img  align="right" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
-
-- 🔭 Here's our [apps](https://play.google.com/store/apps/dev?id=5708018631480693209)
-- 🌱 Kotlin | KMP | Springboot
-- 💬 Ask me about Tech
-
-## 🌐 Socials:
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/mohanasundharam-b-jp) 
-
-## 💻 Tech Stack:
-
-### Skillset 👨🏻‍💻
-<img width="48" height="48" src="https://img.icons8.com/color/48/android-os.png" alt="android-os"/> <img width="48" height="48" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/> <img  height="50"  width="50"  src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"  /> <img  height="50"  width="50"  src="https://img.icons8.com/color/48/000000/c-programming.png"  /> <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
-  
-### Tools 🛠️
-  <img  height="50"  width="50"  src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img  height="50"  width="50"  src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/jira.png" alt="jira"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/android-studio--v3.png" alt="android-studio--v3"/> <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="50" height="50" src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/external-agile-web-design-and-development-flatart-icons-flat-flatarticons.png" alt="external-agile-web-design-and-development-flatart-icons-flat-flatarticons"/> <img width="48" height="48" src="https://img.icons8.com/color/48/notion--v1.png" alt="notion--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
-
-### Deployments ☁️
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/google-play-store-new.png" alt="google-play-store-new"/>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MohanJPOfficial&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MohanJPOfficial&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohanJPOfficial&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### Software Engineer | Android • Backend • KMP • DSA
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MohanJPOfficial&icon=4&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+Software Engineer with 4+ years of experience building scalable mobile and backend systems.
+
+- 📱 Android development using Kotlin, Jetpack Compose, MVI, Clean Architecture  
+- ⚙️ Backend development using Spring Boot, REST APIs, MySQL  
+- 🔄 Built real-time and offline-first systems handling large-scale users  
+- 🧠 Solved 300+ Data Structures & Algorithms problems  
+
+---
+
+## 🔧 Tech Stack
+
+**Languages:** Java, Kotlin  
+**Mobile:** Android, Jetpack Compose, KMP  
+**Backend:** Spring Boot, REST APIs, MySQL  
+**Architecture:** Clean Architecture, MVI  
+**Tools:** Firebase, Git, Postman  
+
+---
+
+## 💼 Notable Work
+
+### 📌 Accountify (Full-stack)
+- Built offline-first Android app for financial management  
+- Designed REST APIs using Spring Boot and MySQL  
+- Implemented JWT-based authentication and scalable data models  
+
+### 📌 Real-time Chat System (Pepul)
+- Developed messaging system supporting 2M+ users  
+- Reduced latency from ~2s to <500ms using WebSockets  
+- Designed offline sync and reliable message delivery  
+
+---
+
+## 🌐 Links
+
+- 🔗 [LinkedIn](https://linkedin.com/in/mohanasundharam-b-jp)  
+- 📱 [Play Store Apps](https://play.google.com/store/apps/dev?id=5708018631480693209)  
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=MohanJPOfficial&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=MohanJPOfficial&theme=blueberry&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohanJPOfficial&theme=blueberry&hide_border=false&layout=compact)
