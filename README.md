@@ -2,15 +2,17 @@
 
 ### Software Engineer | Android • Backend • KMP • DSA
 
+<img align="right" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+
 ---
 
 ## 🚀 About Me
 
 Software Engineer with 4+ years of experience building scalable mobile and backend systems.
 
-- 📱 Android development using Kotlin, Jetpack Compose, MVI, Clean Architecture  
-- ⚙️ Backend development using Spring Boot, REST APIs, MySQL  
-- 🔄 Built real-time and offline-first systems handling large-scale users  
+- 📱 Android: Kotlin, Jetpack Compose, MVI, Clean Architecture  
+- ⚙️ Backend: Spring Boot, REST APIs, MySQL  
+- 🔄 Built real-time and offline-first systems at scale (2M+ users)  
 - 🧠 Solved 300+ Data Structures & Algorithms problems  
 
 ---
@@ -53,3 +55,13 @@ Software Engineer with 4+ years of experience building scalable mobile and backe
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MohanJPOfficial&theme=blueberry&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohanJPOfficial&theme=blueberry&hide_border=false&layout=compact)
+
+---
+
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=MohanJPOfficial&icon=4&color=3)](https://visitcount.itsvg.in)
