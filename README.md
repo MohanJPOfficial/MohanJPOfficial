@@ -42,7 +42,7 @@ Software Engineer with 4+ years of experience building scalable mobile and backe
 
 ## 🌐 Links
 
-- 🔗 [LinkedIn](https://linkedin.com/in/mohanasundharam-b-jp)  
+- 🔗 [LinkedIn](https://linkedin.com/in/mohanasundharamb)  
 - 📱 [Play Store Apps](https://play.google.com/store/apps/dev?id=5708018631480693209)  
 
 ---
