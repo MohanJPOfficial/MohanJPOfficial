@@ -18,12 +18,13 @@ Software Engineer with 4+ years of experience building Android applications and 
 - Built Accountify, an offline-first accounting system using Spring Boot + MySQL, achieving <100ms response time and reducing manual effort through automated PDF generation.
 ---
 
-## 🚀 Tech Stack
+## 🔧 Tech Stack
+
 **Languages:** Java, Kotlin  
 **Mobile:** Android, Jetpack Compose, KMP  
 **Backend:** Spring Boot, REST APIs, MySQL  
-**Architecture:** Clean Architecture, MVI  
-**Tools:** Firebase, Git, Postman 
+**Architecture:** Clean Architecture, MVI, MVC
+**Tools:** Firebase, Git, Postman  
 
 ---
 
