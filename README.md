@@ -22,7 +22,7 @@ Software Engineer with 4+ years of experience building Android applications and 
 
 **Languages:** Java, Kotlin  
 **Mobile:** Android, Jetpack Compose, KMP  
-**Backend:** Spring Boot, REST APIs, MySQL  
+**Backend:** Spring Boot, REST APIs, MySQL
 **Architecture:** Clean Architecture, MVI, MVC
 **Tools:** Firebase, Git, Postman  
 
