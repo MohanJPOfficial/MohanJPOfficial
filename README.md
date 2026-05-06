@@ -1,42 +1,95 @@
 # 👋 Hi, I'm Mohanasundharam B
 
-### Software Engineer | Android • Backend • KMP • DSA
+### Software Engineer | Android • Kotlin • KMP • Spring Boot • DSA
 
 
 ---
 
 ## 🚀 About Me
 
-Software Engineer with 4+ years of experience building scalable mobile and backend systems.
+Software Engineer with 4+ years of experience building Android applications and working on real-world engineering problems around reliability, offline support, and real-time communication.
 
-- 📱 Android: Kotlin, Jetpack Compose, MVI, Clean Architecture  
-- ⚙️ Backend: Spring Boot, REST APIs, MySQL  
-- 🔄 Built real-time and offline-first systems at scale (2M+ users)  
-- 🧠 Solved 300+ Data Structures & Algorithms problems  
+- At Pepul, reduced latency from ~2s to under 500ms by replacing polling with WebSockets for a real-time messaging system used by 2M+ users.
+
+- At Wipro (Stellantis), worked on connected vehicle features for brands like Jeep, Fiat, and Opel, including a shared SDK using Kotlin Multiplatform (KMP) and secure NFC-based Digital Key access.
+
+- At Piquota Digital (Mr. Cooper), reduced QA cycle time by 40% and improved automated test coverage to 95% by building API simulation and testing infrastructure.
+
+- Built Accountify, an offline-first accounting system using Spring Boot + MySQL, achieving <100ms response time and reducing manual effort through automated PDF generation.
+---
+
+
+## 🚀 Tech Stack
+
+### Mobile
+
+- Kotlin
+
+- Android SDK
+
+- Jetpack Compose
+
+- Kotlin Multiplatform (KMP)
+
+- Coroutines
+
+- Clean Architecture
+
+- MVI
+
+### Backend
+
+- Spring Boot
+
+- REST APIs
+
+- MySQL
+
+### Tools
+
+- Git
+
+- Firebase
+
+- Postman
 
 ---
 
-## 🔧 Tech Stack
+## 💼 Featured Projects
 
-**Languages:** Java, Kotlin  
-**Mobile:** Android, Jetpack Compose, KMP  
-**Backend:** Spring Boot, REST APIs, MySQL  
-**Architecture:** Clean Architecture, MVI  
-**Tools:** Firebase, Git, Postman  
+### 📌 Accountify
+
+Offline-first accounting system designed for reliable financial tracking under unstable network conditions.
+
+- Built Android application using Kotlin and Clean Architecture
+
+- Developed REST APIs using Spring Boot + MySQL
+
+- Implemented automated PDF generation from transaction data
+
+- Added offline synchronization for reliable data availability
 
 ---
 
-## 💼 Notable Work
+### 📌 Real-time Messaging System (Pepul)
 
-### 📌 Accountify (Full-stack)
-- Built offline-first Android app for financial management  
-- Designed REST APIs using Spring Boot and MySQL  
-- Implemented JWT-based authentication and scalable data models  
+Messaging infrastructure supporting 2M+ users with focus on reliability and low latency.
 
-### 📌 Real-time Chat System (Pepul)
-- Developed messaging system supporting 2M+ users  
-- Reduced latency from ~2s to <500ms using WebSockets  
-- Designed offline sync and reliable message delivery  
+- Replaced polling with WebSockets to reduce latency from ~2s to <500ms
+
+- Designed offline-first synchronization for unreliable network conditions
+
+- Worked on media sharing, deep linking, and scalable messaging flows
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+
+- System Design
+
+- Backend Engineering with Spring Boot
 
 ---
 
