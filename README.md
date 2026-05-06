@@ -16,14 +16,15 @@ Software Engineer with 4+ years of experience building Android applications and 
 - At Piquota Digital (Mr. Cooper), reduced QA cycle time by 40% and improved automated test coverage to 95% by building API simulation and testing infrastructure.
 
 - Built Accountify, an offline-first accounting system using Spring Boot + MySQL, achieving <100ms response time and reducing manual effort through automated PDF generation.
+
 ---
 
 ## 🔧 Tech Stack
 
 **Languages:** Java, Kotlin  
 **Mobile:** Android, Jetpack Compose, KMP  
-**Backend:** Spring Boot, REST APIs, MySQL
-**Architecture:** Clean Architecture, MVI, MVC
+**Backend:** Spring Boot, REST APIs, MySQL  
+**Architecture:** Clean Architecture, MVI  
 **Tools:** Firebase, Git, Postman  
 
 ---
